@@ -12,6 +12,19 @@ body {
     color: aliceblue;
 }
 
-h1 {
-    padding-top: 5%;
+main {
+   
+   
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    margin: 30% auto;
 }
+
+.titulo {
+    color: #000;
+    background-color: whitesmoke;
+    width: 70vw;
+    /* margin: auto;
+} */
+
